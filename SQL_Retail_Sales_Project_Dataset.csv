@@ -1,0 +1,61 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Category,Product,Quantity,Unit_Price,Sales_Amount,Sales_Channel,Order_Status
+1001,2026-01-03,C001,Aisha Bello,Lagos,Electronics,Laptop,2,420000,840000,Online,Delivered
+1002,2026-01-05,C002,Daniel Okafor,Abuja,Electronics,Smartphone,3,280000,840000,Store,Delivered
+1003,2026-01-08,C003,Grace Eze,Enugu,Home Appliances,Blender,4,65000,260000,Online,Delivered
+1004,2026-01-12,C004,Ibrahim Musa,Kano,Furniture,Office Chair,5,95000,475000,Store,Delivered
+1005,2026-01-16,C005,Chioma Obi,Port Harcourt,Electronics,Headphones,6,45000,270000,Online,Delivered
+1006,2026-01-19,C001,Aisha Bello,Lagos,Electronics,Monitor,2,180000,360000,Online,Delivered
+1007,2026-01-22,C006,Tunde Adeyemi,Ibadan,Furniture,Desk,2,210000,420000,Store,Delivered
+1008,2026-01-27,C007,Maryam Sani,Kaduna,Home Appliances,Microwave,2,165000,330000,Online,Delivered
+1009,2026-02-02,C008,Emeka Nwosu,Lagos,Electronics,Tablet,4,195000,780000,Online,Delivered
+1010,2026-02-06,C002,Daniel Okafor,Abuja,Electronics,Keyboard,7,35000,245000,Store,Delivered
+1011,2026-02-10,C009,Fatima Yusuf,Kano,Home Appliances,Air Fryer,3,120000,360000,Online,Delivered
+1012,2026-02-14,C010,John Peter,Port Harcourt,Furniture,Bookshelf,3,145000,435000,Store,Delivered
+1013,2026-02-18,C003,Grace Eze,Enugu,Electronics,Smartwatch,5,85000,425000,Online,Delivered
+1014,2026-02-22,C011,Blessing Umeh,Lagos,Furniture,Dining Table,1,380000,380000,Store,Delivered
+1015,2026-02-25,C005,Chioma Obi,Port Harcourt,Electronics,Speaker,4,70000,280000,Online,Delivered
+1016,2026-03-01,C012,Samuel James,Abuja,Electronics,Laptop,1,450000,450000,Online,Delivered
+1017,2026-03-04,C006,Tunde Adeyemi,Ibadan,Home Appliances,Refrigerator,1,520000,520000,Store,Delivered
+1018,2026-03-08,C013,Esther David,Kaduna,Electronics,Power Bank,8,30000,240000,Online,Delivered
+1019,2026-03-12,C007,Maryam Sani,Kaduna,Furniture,Wardrobe,2,310000,620000,Store,Delivered
+1020,2026-03-16,C014,Peter Chukwu,Enugu,Home Appliances,Washing Machine,1,480000,480000,Online,Delivered
+1021,2026-03-20,C001,Aisha Bello,Lagos,Electronics,Mouse,10,18000,180000,Online,Delivered
+1022,2026-03-24,C009,Fatima Yusuf,Kano,Electronics,Television,2,350000,700000,Store,Delivered
+1023,2026-03-27,C010,John Peter,Port Harcourt,Furniture,Sofa,1,650000,650000,Store,Delivered
+1024,2026-04-02,C015,Rebecca Ali,Lagos,Home Appliances,Electric Kettle,6,28000,168000,Online,Delivered
+1025,2026-04-06,C004,Ibrahim Musa,Kano,Furniture,Office Desk,2,240000,480000,Store,Delivered
+1026,2026-04-10,C008,Emeka Nwosu,Lagos,Electronics,Camera,2,390000,780000,Online,Delivered
+1027,2026-04-14,C012,Samuel James,Abuja,Electronics,Printer,2,175000,350000,Store,Delivered
+1028,2026-04-18,C013,Esther David,Kaduna,Home Appliances,Vacuum Cleaner,3,110000,330000,Online,Delivered
+1029,2026-04-22,C003,Grace Eze,Enugu,Furniture,Coffee Table,2,125000,250000,Store,Delivered
+1030,2026-04-27,C014,Peter Chukwu,Enugu,Electronics,Earbuds,5,55000,275000,Online,Cancelled
+1031,2026-05-02,C005,Chioma Obi,Port Harcourt,Home Appliances,Toaster,4,42000,168000,Online,Delivered
+1032,2026-05-06,C011,Blessing Umeh,Lagos,Furniture,Bed Frame,1,430000,430000,Store,Delivered
+1033,2026-05-10,C002,Daniel Okafor,Abuja,Electronics,Tablet,2,205000,410000,Online,Delivered
+1034,2026-05-14,C007,Maryam Sani,Kaduna,Furniture,Office Chair,4,98000,392000,Store,Delivered
+1035,2026-05-18,C015,Rebecca Ali,Lagos,Home Appliances,Blender,3,68000,204000,Online,Delivered
+1036,2026-05-22,C006,Tunde Adeyemi,Ibadan,Electronics,Monitor,3,185000,555000,Online,Delivered
+1037,2026-05-26,C009,Fatima Yusuf,Kano,Home Appliances,Air Conditioner,1,690000,690000,Store,Delivered
+1038,2026-06-01,C010,John Peter,Port Harcourt,Furniture,Dining Chair,6,75000,450000,Store,Delivered
+1039,2026-06-05,C008,Emeka Nwosu,Lagos,Electronics,Laptop,2,430000,860000,Online,Delivered
+1040,2026-06-09,C012,Samuel James,Abuja,Electronics,Smartphone,2,295000,590000,Store,Delivered
+1041,2026-06-13,C014,Peter Chukwu,Enugu,Home Appliances,Microwave,2,170000,340000,Online,Delivered
+1042,2026-06-17,C004,Ibrahim Musa,Kano,Furniture,Bookshelf,2,150000,300000,Store,Delivered
+1043,2026-06-21,C013,Esther David,Kaduna,Electronics,Keyboard,5,38000,190000,Online,Delivered
+1044,2026-06-25,C001,Aisha Bello,Lagos,Furniture,Desk,1,220000,220000,Store,Delivered
+1045,2026-06-29,C003,Grace Eze,Enugu,Electronics,Television,1,360000,360000,Online,Delivered
+1046,2026-07-03,C005,Chioma Obi,Port Harcourt,Home Appliances,Refrigerator,1,540000,540000,Online,Delivered
+1047,2026-07-07,C011,Blessing Umeh,Lagos,Furniture,Wardrobe,1,320000,320000,Store,Delivered
+1048,2026-07-11,C002,Daniel Okafor,Abuja,Electronics,Camera,1,400000,400000,Online,Delivered
+1049,2026-07-15,C006,Tunde Adeyemi,Ibadan,Home Appliances,Washing Machine,2,490000,980000,Store,Delivered
+1050,2026-07-19,C007,Maryam Sani,Kaduna,Electronics,Smartwatch,4,90000,360000,Online,Delivered
+1051,2026-07-23,C015,Rebecca Ali,Lagos,Electronics,Headphones,5,47000,235000,Online,Delivered
+1052,2026-07-27,C010,John Peter,Port Harcourt,Furniture,Sofa,1,680000,680000,Store,Delivered
+1053,2026-08-02,C009,Fatima Yusuf,Kano,Home Appliances,Air Fryer,4,125000,500000,Online,Delivered
+1054,2026-08-06,C012,Samuel James,Abuja,Electronics,Printer,3,180000,540000,Store,Delivered
+1055,2026-08-10,C008,Emeka Nwosu,Lagos,Electronics,Tablet,3,210000,630000,Online,Delivered
+1056,2026-08-14,C014,Peter Chukwu,Enugu,Furniture,Coffee Table,3,130000,390000,Store,Delivered
+1057,2026-08-18,C004,Ibrahim Musa,Kano,Furniture,Office Desk,1,250000,250000,Store,Delivered
+1058,2026-08-22,C013,Esther David,Kaduna,Home Appliances,Vacuum Cleaner,2,115000,230000,Online,Delivered
+1059,2026-08-26,C001,Aisha Bello,Lagos,Electronics,Mouse,12,19000,228000,Online,Delivered
+1060,2026-08-30,C003,Grace Eze,Enugu,Electronics,Speaker,3,72000,216000,Store,Delivered
