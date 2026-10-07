@@ -32,6 +32,8 @@ The main objectives of the project were to:
 - Apply advanced SQL techniques to support business decision-making.
 
 ## Dataset
+<img width="1859" height="767" alt="Screenshot 2026-10-07 145245" src="https://github.com/user-attachments/assets/fff519e8-d9fb-497f-98bb-7f080601e452" />
+
 The dataset contains 60 retail sales transactions with the following fields:
 Column	            Description
 - Order_ID	          Unique order identifier
